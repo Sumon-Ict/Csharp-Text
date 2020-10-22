@@ -12,9 +12,18 @@ namespace Practise
         public int age;
 
         public double height;
+        private double speed;
 
 
         public string Name { get; set; }
+
+        public void result(int speed)
+        {
+            this.speed = speed;
+            Console.WriteLine($"the speed of the car is {speed}");
+
+
+        }
 
 
         public void result()
@@ -44,6 +53,13 @@ namespace Practise
 
         }
 
+        public void result(int a,int  b )
+        {
+            var r = a > b ? b : a;
+
+            Console.WriteLine($"smalller value between two numbr is {r}");
+
+        }
 
 
 
