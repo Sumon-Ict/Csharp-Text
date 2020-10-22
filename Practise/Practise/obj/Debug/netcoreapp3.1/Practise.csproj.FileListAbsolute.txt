@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\Practise\Practise\bin\Debug\netcoreapp3.1\Practise.exe
+D:\Csharp Test\Csharp-Text\Practise\Practise\bin\Debug\netcoreapp3.1\Practise.deps.json
+D:\Csharp Test\Csharp-Text\Practise\Practise\bin\Debug\netcoreapp3.1\Practise.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\Practise\Practise\bin\Debug\netcoreapp3.1\Practise.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\Practise\Practise\bin\Debug\netcoreapp3.1\Practise.dll
+D:\Csharp Test\Csharp-Text\Practise\Practise\bin\Debug\netcoreapp3.1\Practise.pdb
+D:\Csharp Test\Csharp-Text\Practise\Practise\obj\Debug\netcoreapp3.1\Practise.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\Practise\Practise\obj\Debug\netcoreapp3.1\Practise.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\Practise\Practise\obj\Debug\netcoreapp3.1\Practise.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\Practise\Practise\obj\Debug\netcoreapp3.1\Practise.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\Practise\Practise\obj\Debug\netcoreapp3.1\Practise.dll
+D:\Csharp Test\Csharp-Text\Practise\Practise\obj\Debug\netcoreapp3.1\Practise.pdb
+D:\Csharp Test\Csharp-Text\Practise\Practise\obj\Debug\netcoreapp3.1\Practise.genruntimeconfig.cache
