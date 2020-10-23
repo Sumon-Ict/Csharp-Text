@@ -12,7 +12,7 @@ namespace Practise
 
 
            #region  method overloading
-            /* person p = new person();
+             person p = new person();
 
             p.Name = "sumon";
             p.weight = 12.34;
@@ -32,7 +32,7 @@ namespace Practise
             p.result(123, 45);
 
             p.result();
-            p.result(345); */
+            p.result(345); 
 
             #endregion 
 
