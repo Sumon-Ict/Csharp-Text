@@ -6,84 +6,115 @@ namespace Practise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
 
 
 
 
-           #region  method overloading
-            /* person p = new person();
+            var val = 1233;
 
-            p.Name = "sumon";
-            p.weight = 12.34;
-            p.height = 34.56;
-            p.age = 12;
-
-            p.result("sumon", "suojm");
-
-            p.result(123.34, 45);
-            p.result(34.56, 67.8);
-
-            var a = 123;
-            var b = 34;
-
-            var r = a > b ? a : b;// ternary operator using 
-            Console.WriteLine("the grather value is " + r);
-            p.result(123, 45);
-
-            p.result();
-            p.result(345); */
-
-            #endregion 
-
-
-            electronics E = new electronics();
-
-            E.name = "Camera";
-            E.description = "this camera is imprtant for our happily life";
-            E.price = 235.56;
-            E.Author = "sumon";
-            E.AuthorMother = "rumi begum";
+            Console.WriteLine(val.ToString("D8"));
 
 
 
-            Console.WriteLine($"the discriptiomn of the thing is {E.description}");
-            Console.WriteLine($"the author name is {E.Author}");
-            Console.WriteLine($"the authormothe name is {E.AuthorMother}");
+            var agecal = new product();
+            agecal.A = -123;
 
-            var Product = new product[12];
+            Console.WriteLine($"the age of the boy is {agecal.A}");
+
+
+
+            var productarray = new product[12];
 
             var abook = new book();
+
             abook.name = "bangla";
-            abook.description = "rthis book is very interesting";
-            abook.price = 123.45;
-            abook.Author = "sumon";
+            abook.description = "this  bangla is my favourite book ";
+            abook.price = 567.23;
+            abook.Author = "sahidullah";
 
-            Product[0] = abook;
-
-
-
-            var Et = new electronics();
-            Et.name = "computer";
-
-            Et.AuthorMother = "rumana";
-            Et.price = 456.67;
-
-            Product[1] = Et;
-            Product[2] = new electronics();
-            Console.WriteLine(((book)Product[0]).Author); // type casting from product into book class
-            Console.WriteLine(((electronics)Product[1]).AuthorMother); // type casting from product into electronics 
+            productarray[0] = abook;
 
 
+            var bbook = new book();
+
+            bbook.name = "english";
+            bbook.description = "the writer of this book shjhkjgk";
+            bbook.price = -56;
+            bbook.Author = "onumpon prokasioni";
 
 
+            productarray[1] = bbook;    //store bbook vlaue into the productaray[0] 
 
+            productarray[2] = new book();  
 
-
+            ((book)productarray[2]).name = "Mathematics";
+            ((book)productarray[2]).description = "math is interesting subject";
+            ((book)productarray[2]).price = -123;
+            ((book)productarray[2]).Author = "chamok hasan";
 
 
 
 
+            var anumberElectronic = new electronics();
+            anumberElectronic.name = "computer ";
+            anumberElectronic.description = "computer is very important in our socity ";
+            anumberElectronic.price = 234.567;
+            anumberElectronic.brandname = "HP group company";
+
+            productarray[3] = anumberElectronic;
+
+
+
+            var bnumberElectronic = new electronics();
+
+            bnumberElectronic.name = "camera ";
+            bnumberElectronic.description = "camera is using in picnic party ";
+            bnumberElectronic.price = 234.32;
+            bnumberElectronic.brandname = "cannnon camppany";
+
+            productarray[4] = bnumberElectronic;
+
+
+
+
+            print(abook);
+            print(bbook);
+
+            print(productarray[2]);
+
+            print(anumberElectronic);
+
+            print(bnumberElectronic);
+
+
+        }
+
+        static void print( product  prod)
+        {
+
+            Console.WriteLine($"the element  name is {prod.name} ");
+
+            Console.WriteLine($"the description of the element is {prod.description}");
+
+            Console.WriteLine($"the prince of the elemet is {prod.price}");
+            Console.WriteLine($" the price of the element is {prod.formateprice()}");
+
+
+
+            if(prod is book)
+            {
+                var B = prod as book;
+
+                Console.WriteLine($"the author of the book is {B.Author}");
+
+            }
+
+            else if(prod is electronics)
+            {
+                var E = prod as electronics;
+
+                Console.WriteLine($"the brandname of the element is {E.brandname}");
+            }
 
         }
     }

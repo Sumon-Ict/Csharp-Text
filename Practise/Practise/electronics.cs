@@ -4,10 +4,10 @@ using System.Text;
 
 namespace Practise
 {
-    public  class electronics:book
+    public  class electronics:product
     {
 
-        public string AuthorMother { get; set; }
+        public string brandname { get; set; }
     }
 
 }
