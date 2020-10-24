@@ -8,10 +8,9 @@ namespace Student
         {
 
 
-            string[,] array = new string[,] { { "sumon", "sujon" },{ "sohag", "karim" },{ "karim", "mosaraff" } };
 
-
-            Console.WriteLine(array[2, 0]);
+            #region string 1D array and foreach
+            string[,] array = new string[,] { { "sumon", "sujon" }, { "sohag", "karim" }, { "karim", "mosaraff" } };
 
 
             foreach (string str in array)
@@ -20,17 +19,71 @@ namespace Student
                 Console.WriteLine(str);
 
             }
-            
-            
+
+            #endregion
+
+
+
+            #region multidimension array
+            string[,,] Array = new string[2, 2, 2];
+
+            Array[0, 0, 0] = "raka";
+            Array[0, 0, 1] = "nowraj";
+            Array[0, 1, 0] = "sopnil";
+            Array[1, 1, 1] = "nilufa";
+
+
+            Console.WriteLine(Array[0, 1, 0]);
+
+            #endregion
+
+
+            #region Jagged Array
+
+
+            string[][,] jaggedarray = new string[3][,];
+
+
+
+            jaggedarray[0] = new string[,] { { "sumon", "sujon", "hargi" }, { "momin", "salam", "suvo" }, { "sorna", "kajol", "moon" } };
+
+
+            Console.WriteLine(jaggedarray[0][1, 2]);
+
+
+            Console.WriteLine(array[2, 0]);
+
+            string[][,,] jaggedA = new string[10][,,];
+
+            jaggedA[0] = new string[,,] {
+
+                { { "sumon", "sujon" }, { "rashid", "imran" } },
+
+                  { { "masud", "surjo" }, { "khairul", "plabon" } }
+            };
+
+
+            jaggedA[1] = new string[,,] { { { "bristy","nilu" },{ "jiniya","marful"} },{ { "tomal","mahfuj" },{ "alamin","debasis" } } };
+
+
+            Console.WriteLine(jaggedA[1][1, 0, 1]);
+
+
+
+            #endregion
+
+
+            #region   switch array
+
             static string result(int d)
             {
 
 
                 string str;
-               switch(d)
+                switch (d)
                 {
                     case 1:
-                        str= "sunday";
+                        str = "sunday";
                         break;
 
                     case 2:
@@ -45,13 +98,15 @@ namespace Student
                         break;
                     default:
                         str = "input is not correct";
-                        break;                                       
+                        break;
 
                 }
                 return str;
             }
 
-            Console.WriteLine("enter the number of day");
+
+            Console.WriteLine("enter the value");
+
 
             int day = Convert.ToInt32(Console.ReadLine());
 
@@ -59,14 +114,17 @@ namespace Student
             string final = result(day);
 
 
-            Console.WriteLine($"the day name is {final}");
+            Console.WriteLine($"the day name is {final}");  
+            Console.WriteLine("the day name is {0}", final);  //same method for output 
+
+
+            #endregion
 
 
 
-            
-            
-            
-            
+
+            #region inhertence and override 
+
             var studentarray = new firstbatch[6];
 
 
@@ -88,11 +146,11 @@ namespace Student
 
 
 
-           /* print(student);
+            print(student);
             Console.WriteLine(student.formateage());
             print(student2);
 
-            Console.WriteLine(student2.formateage());*/
+            Console.WriteLine(student2.formateage());
 
             var second1s = new secondbatch();
             second1s.Name = "sagor";
@@ -156,7 +214,36 @@ namespace Student
                 var third = S as thirdbatch;
                 Console.WriteLine($" the session of the student is {third.session}");
             }
+            #endregion
+
+
+            #region method overloading 
+
+            secondbatch F = new secondbatch();  //using secondbatch class 
+
+            F.myfun();
+
+            F.myfun("sumon", "sujom");
+            F.myfun(2434.78, 789);
+            F.myfun(89.9, 12.890);
+
+            #endregion
+
+
+            int b = 0b_10000_1111;
+
+            int t = ~b;
+            Console.WriteLine(Convert.ToString(t, toBase: 2));
+
+
+
+
+
+
+
+
 
         }
+
     }
 }
