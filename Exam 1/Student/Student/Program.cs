@@ -7,6 +7,66 @@ namespace Student
         static void Main(string[] args)
         {
 
+
+            string[,] array = new string[,] { { "sumon", "sujon" },{ "sohag", "karim" },{ "karim", "mosaraff" } };
+
+
+            Console.WriteLine(array[2, 0]);
+
+
+            foreach (string str in array)
+            {
+
+                Console.WriteLine(str);
+
+            }
+            
+            
+            static string result(int d)
+            {
+
+
+                string str;
+               switch(d)
+                {
+                    case 1:
+                        str= "sunday";
+                        break;
+
+                    case 2:
+                        str = "sunay";
+                        break;
+
+                    case 3:
+                        str = "monday";
+                        break;
+                    case 4:
+                        str = "tuesday";
+                        break;
+                    default:
+                        str = "input is not correct";
+                        break;                                       
+
+                }
+                return str;
+            }
+
+            Console.WriteLine("enter the number of day");
+
+            int day = Convert.ToInt32(Console.ReadLine());
+
+
+            string final = result(day);
+
+
+            Console.WriteLine($"the day name is {final}");
+
+
+
+            
+            
+            
+            
             var studentarray = new firstbatch[6];
 
 
