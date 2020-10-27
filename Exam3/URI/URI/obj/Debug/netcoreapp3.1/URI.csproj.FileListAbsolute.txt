@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\Exam3\URI\URI\bin\Debug\netcoreapp3.1\URI.exe
+D:\Csharp Test\Csharp-Text\Exam3\URI\URI\bin\Debug\netcoreapp3.1\URI.deps.json
+D:\Csharp Test\Csharp-Text\Exam3\URI\URI\bin\Debug\netcoreapp3.1\URI.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\Exam3\URI\URI\bin\Debug\netcoreapp3.1\URI.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\Exam3\URI\URI\bin\Debug\netcoreapp3.1\URI.dll
+D:\Csharp Test\Csharp-Text\Exam3\URI\URI\bin\Debug\netcoreapp3.1\URI.pdb
+D:\Csharp Test\Csharp-Text\Exam3\URI\URI\obj\Debug\netcoreapp3.1\URI.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\Exam3\URI\URI\obj\Debug\netcoreapp3.1\URI.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\Exam3\URI\URI\obj\Debug\netcoreapp3.1\URI.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\Exam3\URI\URI\obj\Debug\netcoreapp3.1\URI.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\Exam3\URI\URI\obj\Debug\netcoreapp3.1\URI.dll
+D:\Csharp Test\Csharp-Text\Exam3\URI\URI\obj\Debug\netcoreapp3.1\URI.pdb
+D:\Csharp Test\Csharp-Text\Exam3\URI\URI\obj\Debug\netcoreapp3.1\URI.genruntimeconfig.cache

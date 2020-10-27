@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\Exam3\Bitwise-Operator\Bitwise-Operator\bin\Debug\netcoreapp3.1\Bitwise-Operator.exe
+D:\Csharp Test\Csharp-Text\Exam3\Bitwise-Operator\Bitwise-Operator\bin\Debug\netcoreapp3.1\Bitwise-Operator.deps.json
+D:\Csharp Test\Csharp-Text\Exam3\Bitwise-Operator\Bitwise-Operator\bin\Debug\netcoreapp3.1\Bitwise-Operator.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\Exam3\Bitwise-Operator\Bitwise-Operator\bin\Debug\netcoreapp3.1\Bitwise-Operator.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\Exam3\Bitwise-Operator\Bitwise-Operator\bin\Debug\netcoreapp3.1\Bitwise-Operator.dll
+D:\Csharp Test\Csharp-Text\Exam3\Bitwise-Operator\Bitwise-Operator\bin\Debug\netcoreapp3.1\Bitwise-Operator.pdb
+D:\Csharp Test\Csharp-Text\Exam3\Bitwise-Operator\Bitwise-Operator\obj\Debug\netcoreapp3.1\Bitwise-Operator.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\Exam3\Bitwise-Operator\Bitwise-Operator\obj\Debug\netcoreapp3.1\Bitwise-Operator.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\Exam3\Bitwise-Operator\Bitwise-Operator\obj\Debug\netcoreapp3.1\Bitwise-Operator.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\Exam3\Bitwise-Operator\Bitwise-Operator\obj\Debug\netcoreapp3.1\Bitwise-Operator.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\Exam3\Bitwise-Operator\Bitwise-Operator\obj\Debug\netcoreapp3.1\Bitwise-Operator.dll
+D:\Csharp Test\Csharp-Text\Exam3\Bitwise-Operator\Bitwise-Operator\obj\Debug\netcoreapp3.1\Bitwise-Operator.pdb
+D:\Csharp Test\Csharp-Text\Exam3\Bitwise-Operator\Bitwise-Operator\obj\Debug\netcoreapp3.1\Bitwise-Operator.genruntimeconfig.cache

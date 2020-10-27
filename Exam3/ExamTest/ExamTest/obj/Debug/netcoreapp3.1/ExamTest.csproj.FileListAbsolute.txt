@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\Exam3\ExamTest\ExamTest\bin\Debug\netcoreapp3.1\ExamTest.exe
+D:\Csharp Test\Csharp-Text\Exam3\ExamTest\ExamTest\bin\Debug\netcoreapp3.1\ExamTest.deps.json
+D:\Csharp Test\Csharp-Text\Exam3\ExamTest\ExamTest\bin\Debug\netcoreapp3.1\ExamTest.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\Exam3\ExamTest\ExamTest\bin\Debug\netcoreapp3.1\ExamTest.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\Exam3\ExamTest\ExamTest\bin\Debug\netcoreapp3.1\ExamTest.dll
+D:\Csharp Test\Csharp-Text\Exam3\ExamTest\ExamTest\bin\Debug\netcoreapp3.1\ExamTest.pdb
+D:\Csharp Test\Csharp-Text\Exam3\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\Exam3\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\Exam3\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\Exam3\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\Exam3\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.dll
+D:\Csharp Test\Csharp-Text\Exam3\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.pdb
+D:\Csharp Test\Csharp-Text\Exam3\ExamTest\ExamTest\obj\Debug\netcoreapp3.1\ExamTest.genruntimeconfig.cache
