@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\Exam3\URIString\URIString\bin\Debug\netcoreapp3.1\URIString.exe
+D:\Csharp Test\Csharp-Text\Exam3\URIString\URIString\bin\Debug\netcoreapp3.1\URIString.deps.json
+D:\Csharp Test\Csharp-Text\Exam3\URIString\URIString\bin\Debug\netcoreapp3.1\URIString.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\Exam3\URIString\URIString\bin\Debug\netcoreapp3.1\URIString.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\Exam3\URIString\URIString\bin\Debug\netcoreapp3.1\URIString.dll
+D:\Csharp Test\Csharp-Text\Exam3\URIString\URIString\bin\Debug\netcoreapp3.1\URIString.pdb
+D:\Csharp Test\Csharp-Text\Exam3\URIString\URIString\obj\Debug\netcoreapp3.1\URIString.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\Exam3\URIString\URIString\obj\Debug\netcoreapp3.1\URIString.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\Exam3\URIString\URIString\obj\Debug\netcoreapp3.1\URIString.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\Exam3\URIString\URIString\obj\Debug\netcoreapp3.1\URIString.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\Exam3\URIString\URIString\obj\Debug\netcoreapp3.1\URIString.dll
+D:\Csharp Test\Csharp-Text\Exam3\URIString\URIString\obj\Debug\netcoreapp3.1\URIString.pdb
+D:\Csharp Test\Csharp-Text\Exam3\URIString\URIString\obj\Debug\netcoreapp3.1\URIString.genruntimeconfig.cache
