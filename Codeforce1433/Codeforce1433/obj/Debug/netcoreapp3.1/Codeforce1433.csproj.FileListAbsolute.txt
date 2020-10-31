@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\Codeforce1433\Codeforce1433\bin\Debug\netcoreapp3.1\Codeforce1433.exe
+D:\Csharp Test\Csharp-Text\Codeforce1433\Codeforce1433\bin\Debug\netcoreapp3.1\Codeforce1433.deps.json
+D:\Csharp Test\Csharp-Text\Codeforce1433\Codeforce1433\bin\Debug\netcoreapp3.1\Codeforce1433.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\Codeforce1433\Codeforce1433\bin\Debug\netcoreapp3.1\Codeforce1433.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\Codeforce1433\Codeforce1433\bin\Debug\netcoreapp3.1\Codeforce1433.dll
+D:\Csharp Test\Csharp-Text\Codeforce1433\Codeforce1433\bin\Debug\netcoreapp3.1\Codeforce1433.pdb
+D:\Csharp Test\Csharp-Text\Codeforce1433\Codeforce1433\obj\Debug\netcoreapp3.1\Codeforce1433.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\Codeforce1433\Codeforce1433\obj\Debug\netcoreapp3.1\Codeforce1433.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\Codeforce1433\Codeforce1433\obj\Debug\netcoreapp3.1\Codeforce1433.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\Codeforce1433\Codeforce1433\obj\Debug\netcoreapp3.1\Codeforce1433.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\Codeforce1433\Codeforce1433\obj\Debug\netcoreapp3.1\Codeforce1433.dll
+D:\Csharp Test\Csharp-Text\Codeforce1433\Codeforce1433\obj\Debug\netcoreapp3.1\Codeforce1433.pdb
+D:\Csharp Test\Csharp-Text\Codeforce1433\Codeforce1433\obj\Debug\netcoreapp3.1\Codeforce1433.genruntimeconfig.cache
