@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\CF1421A\CF1421A\bin\Debug\netcoreapp3.1\CF1421A.exe
+D:\Csharp Test\Csharp-Text\CF1421A\CF1421A\bin\Debug\netcoreapp3.1\CF1421A.deps.json
+D:\Csharp Test\Csharp-Text\CF1421A\CF1421A\bin\Debug\netcoreapp3.1\CF1421A.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\CF1421A\CF1421A\bin\Debug\netcoreapp3.1\CF1421A.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\CF1421A\CF1421A\bin\Debug\netcoreapp3.1\CF1421A.dll
+D:\Csharp Test\Csharp-Text\CF1421A\CF1421A\bin\Debug\netcoreapp3.1\CF1421A.pdb
+D:\Csharp Test\Csharp-Text\CF1421A\CF1421A\obj\Debug\netcoreapp3.1\CF1421A.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\CF1421A\CF1421A\obj\Debug\netcoreapp3.1\CF1421A.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\CF1421A\CF1421A\obj\Debug\netcoreapp3.1\CF1421A.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\CF1421A\CF1421A\obj\Debug\netcoreapp3.1\CF1421A.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\CF1421A\CF1421A\obj\Debug\netcoreapp3.1\CF1421A.dll
+D:\Csharp Test\Csharp-Text\CF1421A\CF1421A\obj\Debug\netcoreapp3.1\CF1421A.pdb
+D:\Csharp Test\Csharp-Text\CF1421A\CF1421A\obj\Debug\netcoreapp3.1\CF1421A.genruntimeconfig.cache
