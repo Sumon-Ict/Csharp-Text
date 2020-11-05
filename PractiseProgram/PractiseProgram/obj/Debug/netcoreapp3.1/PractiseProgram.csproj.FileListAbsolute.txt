@@ -1,0 +1,13 @@
+C:\Users\Sumon\source\repos\PractiseProgram\PractiseProgram\bin\Debug\netcoreapp3.1\PractiseProgram.exe
+C:\Users\Sumon\source\repos\PractiseProgram\PractiseProgram\bin\Debug\netcoreapp3.1\PractiseProgram.deps.json
+C:\Users\Sumon\source\repos\PractiseProgram\PractiseProgram\bin\Debug\netcoreapp3.1\PractiseProgram.runtimeconfig.json
+C:\Users\Sumon\source\repos\PractiseProgram\PractiseProgram\bin\Debug\netcoreapp3.1\PractiseProgram.runtimeconfig.dev.json
+C:\Users\Sumon\source\repos\PractiseProgram\PractiseProgram\bin\Debug\netcoreapp3.1\PractiseProgram.dll
+C:\Users\Sumon\source\repos\PractiseProgram\PractiseProgram\bin\Debug\netcoreapp3.1\PractiseProgram.pdb
+C:\Users\Sumon\source\repos\PractiseProgram\PractiseProgram\obj\Debug\netcoreapp3.1\PractiseProgram.csprojAssemblyReference.cache
+C:\Users\Sumon\source\repos\PractiseProgram\PractiseProgram\obj\Debug\netcoreapp3.1\PractiseProgram.AssemblyInfoInputs.cache
+C:\Users\Sumon\source\repos\PractiseProgram\PractiseProgram\obj\Debug\netcoreapp3.1\PractiseProgram.AssemblyInfo.cs
+C:\Users\Sumon\source\repos\PractiseProgram\PractiseProgram\obj\Debug\netcoreapp3.1\PractiseProgram.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\source\repos\PractiseProgram\PractiseProgram\obj\Debug\netcoreapp3.1\PractiseProgram.dll
+C:\Users\Sumon\source\repos\PractiseProgram\PractiseProgram\obj\Debug\netcoreapp3.1\PractiseProgram.pdb
+C:\Users\Sumon\source\repos\PractiseProgram\PractiseProgram\obj\Debug\netcoreapp3.1\PractiseProgram.genruntimeconfig.cache

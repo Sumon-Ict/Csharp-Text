@@ -1,0 +1,13 @@
+C:\Users\Sumon\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.exe
+C:\Users\Sumon\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.deps.json
+C:\Users\Sumon\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.json
+C:\Users\Sumon\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.dev.json
+C:\Users\Sumon\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.dll
+C:\Users\Sumon\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.pdb
+C:\Users\Sumon\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.csprojAssemblyReference.cache
+C:\Users\Sumon\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfoInputs.cache
+C:\Users\Sumon\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfo.cs
+C:\Users\Sumon\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.dll
+C:\Users\Sumon\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.pdb
+C:\Users\Sumon\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.genruntimeconfig.cache

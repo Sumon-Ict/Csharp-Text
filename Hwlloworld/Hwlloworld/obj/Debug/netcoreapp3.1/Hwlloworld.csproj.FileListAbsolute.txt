@@ -1,0 +1,13 @@
+C:\Users\Sumon\source\repos\Hwlloworld\Hwlloworld\bin\Debug\netcoreapp3.1\Hwlloworld.exe
+C:\Users\Sumon\source\repos\Hwlloworld\Hwlloworld\bin\Debug\netcoreapp3.1\Hwlloworld.deps.json
+C:\Users\Sumon\source\repos\Hwlloworld\Hwlloworld\bin\Debug\netcoreapp3.1\Hwlloworld.runtimeconfig.json
+C:\Users\Sumon\source\repos\Hwlloworld\Hwlloworld\bin\Debug\netcoreapp3.1\Hwlloworld.runtimeconfig.dev.json
+C:\Users\Sumon\source\repos\Hwlloworld\Hwlloworld\bin\Debug\netcoreapp3.1\Hwlloworld.dll
+C:\Users\Sumon\source\repos\Hwlloworld\Hwlloworld\bin\Debug\netcoreapp3.1\Hwlloworld.pdb
+C:\Users\Sumon\source\repos\Hwlloworld\Hwlloworld\obj\Debug\netcoreapp3.1\Hwlloworld.csprojAssemblyReference.cache
+C:\Users\Sumon\source\repos\Hwlloworld\Hwlloworld\obj\Debug\netcoreapp3.1\Hwlloworld.AssemblyInfoInputs.cache
+C:\Users\Sumon\source\repos\Hwlloworld\Hwlloworld\obj\Debug\netcoreapp3.1\Hwlloworld.AssemblyInfo.cs
+C:\Users\Sumon\source\repos\Hwlloworld\Hwlloworld\obj\Debug\netcoreapp3.1\Hwlloworld.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\source\repos\Hwlloworld\Hwlloworld\obj\Debug\netcoreapp3.1\Hwlloworld.dll
+C:\Users\Sumon\source\repos\Hwlloworld\Hwlloworld\obj\Debug\netcoreapp3.1\Hwlloworld.pdb
+C:\Users\Sumon\source\repos\Hwlloworld\Hwlloworld\obj\Debug\netcoreapp3.1\Hwlloworld.genruntimeconfig.cache

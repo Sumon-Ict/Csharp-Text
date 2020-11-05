@@ -1,0 +1,13 @@
+C:\Users\Sumon\source\repos\ThirdProgram\ThirdProgram\bin\Debug\netcoreapp3.1\ThirdProgram.exe
+C:\Users\Sumon\source\repos\ThirdProgram\ThirdProgram\bin\Debug\netcoreapp3.1\ThirdProgram.deps.json
+C:\Users\Sumon\source\repos\ThirdProgram\ThirdProgram\bin\Debug\netcoreapp3.1\ThirdProgram.runtimeconfig.json
+C:\Users\Sumon\source\repos\ThirdProgram\ThirdProgram\bin\Debug\netcoreapp3.1\ThirdProgram.runtimeconfig.dev.json
+C:\Users\Sumon\source\repos\ThirdProgram\ThirdProgram\bin\Debug\netcoreapp3.1\ThirdProgram.dll
+C:\Users\Sumon\source\repos\ThirdProgram\ThirdProgram\bin\Debug\netcoreapp3.1\ThirdProgram.pdb
+C:\Users\Sumon\source\repos\ThirdProgram\ThirdProgram\obj\Debug\netcoreapp3.1\ThirdProgram.csprojAssemblyReference.cache
+C:\Users\Sumon\source\repos\ThirdProgram\ThirdProgram\obj\Debug\netcoreapp3.1\ThirdProgram.AssemblyInfoInputs.cache
+C:\Users\Sumon\source\repos\ThirdProgram\ThirdProgram\obj\Debug\netcoreapp3.1\ThirdProgram.AssemblyInfo.cs
+C:\Users\Sumon\source\repos\ThirdProgram\ThirdProgram\obj\Debug\netcoreapp3.1\ThirdProgram.csproj.CoreCompileInputs.cache
+C:\Users\Sumon\source\repos\ThirdProgram\ThirdProgram\obj\Debug\netcoreapp3.1\ThirdProgram.dll
+C:\Users\Sumon\source\repos\ThirdProgram\ThirdProgram\obj\Debug\netcoreapp3.1\ThirdProgram.pdb
+C:\Users\Sumon\source\repos\ThirdProgram\ThirdProgram\obj\Debug\netcoreapp3.1\ThirdProgram.genruntimeconfig.cache
