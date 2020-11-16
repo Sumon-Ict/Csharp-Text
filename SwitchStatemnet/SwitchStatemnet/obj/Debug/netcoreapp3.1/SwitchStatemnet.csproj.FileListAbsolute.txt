@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\SwitchStatemnet\SwitchStatemnet\bin\Debug\netcoreapp3.1\SwitchStatemnet.exe
+D:\Csharp Test\Csharp-Text\SwitchStatemnet\SwitchStatemnet\bin\Debug\netcoreapp3.1\SwitchStatemnet.deps.json
+D:\Csharp Test\Csharp-Text\SwitchStatemnet\SwitchStatemnet\bin\Debug\netcoreapp3.1\SwitchStatemnet.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\SwitchStatemnet\SwitchStatemnet\bin\Debug\netcoreapp3.1\SwitchStatemnet.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\SwitchStatemnet\SwitchStatemnet\bin\Debug\netcoreapp3.1\SwitchStatemnet.dll
+D:\Csharp Test\Csharp-Text\SwitchStatemnet\SwitchStatemnet\bin\Debug\netcoreapp3.1\SwitchStatemnet.pdb
+D:\Csharp Test\Csharp-Text\SwitchStatemnet\SwitchStatemnet\obj\Debug\netcoreapp3.1\SwitchStatemnet.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\SwitchStatemnet\SwitchStatemnet\obj\Debug\netcoreapp3.1\SwitchStatemnet.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\SwitchStatemnet\SwitchStatemnet\obj\Debug\netcoreapp3.1\SwitchStatemnet.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\SwitchStatemnet\SwitchStatemnet\obj\Debug\netcoreapp3.1\SwitchStatemnet.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\SwitchStatemnet\SwitchStatemnet\obj\Debug\netcoreapp3.1\SwitchStatemnet.dll
+D:\Csharp Test\Csharp-Text\SwitchStatemnet\SwitchStatemnet\obj\Debug\netcoreapp3.1\SwitchStatemnet.pdb
+D:\Csharp Test\Csharp-Text\SwitchStatemnet\SwitchStatemnet\obj\Debug\netcoreapp3.1\SwitchStatemnet.genruntimeconfig.cache

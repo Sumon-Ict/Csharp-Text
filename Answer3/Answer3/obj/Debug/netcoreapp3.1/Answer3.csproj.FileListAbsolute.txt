@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\Answer3\Answer3\bin\Debug\netcoreapp3.1\Answer3.exe
+D:\Csharp Test\Csharp-Text\Answer3\Answer3\bin\Debug\netcoreapp3.1\Answer3.deps.json
+D:\Csharp Test\Csharp-Text\Answer3\Answer3\bin\Debug\netcoreapp3.1\Answer3.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\Answer3\Answer3\bin\Debug\netcoreapp3.1\Answer3.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\Answer3\Answer3\bin\Debug\netcoreapp3.1\Answer3.dll
+D:\Csharp Test\Csharp-Text\Answer3\Answer3\bin\Debug\netcoreapp3.1\Answer3.pdb
+D:\Csharp Test\Csharp-Text\Answer3\Answer3\obj\Debug\netcoreapp3.1\Answer3.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\Answer3\Answer3\obj\Debug\netcoreapp3.1\Answer3.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\Answer3\Answer3\obj\Debug\netcoreapp3.1\Answer3.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\Answer3\Answer3\obj\Debug\netcoreapp3.1\Answer3.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\Answer3\Answer3\obj\Debug\netcoreapp3.1\Answer3.dll
+D:\Csharp Test\Csharp-Text\Answer3\Answer3\obj\Debug\netcoreapp3.1\Answer3.pdb
+D:\Csharp Test\Csharp-Text\Answer3\Answer3\obj\Debug\netcoreapp3.1\Answer3.genruntimeconfig.cache

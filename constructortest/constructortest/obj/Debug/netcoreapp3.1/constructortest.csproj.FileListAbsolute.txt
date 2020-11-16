@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\constructortest\constructortest\bin\Debug\netcoreapp3.1\constructortest.exe
+D:\Csharp Test\Csharp-Text\constructortest\constructortest\bin\Debug\netcoreapp3.1\constructortest.deps.json
+D:\Csharp Test\Csharp-Text\constructortest\constructortest\bin\Debug\netcoreapp3.1\constructortest.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\constructortest\constructortest\bin\Debug\netcoreapp3.1\constructortest.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\constructortest\constructortest\bin\Debug\netcoreapp3.1\constructortest.dll
+D:\Csharp Test\Csharp-Text\constructortest\constructortest\bin\Debug\netcoreapp3.1\constructortest.pdb
+D:\Csharp Test\Csharp-Text\constructortest\constructortest\obj\Debug\netcoreapp3.1\constructortest.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\constructortest\constructortest\obj\Debug\netcoreapp3.1\constructortest.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\constructortest\constructortest\obj\Debug\netcoreapp3.1\constructortest.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\constructortest\constructortest\obj\Debug\netcoreapp3.1\constructortest.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\constructortest\constructortest\obj\Debug\netcoreapp3.1\constructortest.dll
+D:\Csharp Test\Csharp-Text\constructortest\constructortest\obj\Debug\netcoreapp3.1\constructortest.pdb
+D:\Csharp Test\Csharp-Text\constructortest\constructortest\obj\Debug\netcoreapp3.1\constructortest.genruntimeconfig.cache
