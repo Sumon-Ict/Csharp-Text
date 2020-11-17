@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\TupleExample1\TupleExample1\bin\Debug\netcoreapp3.1\TupleExample1.exe
+D:\Csharp Test\Csharp-Text\TupleExample1\TupleExample1\bin\Debug\netcoreapp3.1\TupleExample1.deps.json
+D:\Csharp Test\Csharp-Text\TupleExample1\TupleExample1\bin\Debug\netcoreapp3.1\TupleExample1.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\TupleExample1\TupleExample1\bin\Debug\netcoreapp3.1\TupleExample1.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\TupleExample1\TupleExample1\bin\Debug\netcoreapp3.1\TupleExample1.dll
+D:\Csharp Test\Csharp-Text\TupleExample1\TupleExample1\bin\Debug\netcoreapp3.1\TupleExample1.pdb
+D:\Csharp Test\Csharp-Text\TupleExample1\TupleExample1\obj\Debug\netcoreapp3.1\TupleExample1.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\TupleExample1\TupleExample1\obj\Debug\netcoreapp3.1\TupleExample1.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\TupleExample1\TupleExample1\obj\Debug\netcoreapp3.1\TupleExample1.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\TupleExample1\TupleExample1\obj\Debug\netcoreapp3.1\TupleExample1.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\TupleExample1\TupleExample1\obj\Debug\netcoreapp3.1\TupleExample1.dll
+D:\Csharp Test\Csharp-Text\TupleExample1\TupleExample1\obj\Debug\netcoreapp3.1\TupleExample1.pdb
+D:\Csharp Test\Csharp-Text\TupleExample1\TupleExample1\obj\Debug\netcoreapp3.1\TupleExample1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\Genereics\Genereics\bin\Debug\netcoreapp3.1\Genereics.exe
+D:\Csharp Test\Csharp-Text\Genereics\Genereics\bin\Debug\netcoreapp3.1\Genereics.deps.json
+D:\Csharp Test\Csharp-Text\Genereics\Genereics\bin\Debug\netcoreapp3.1\Genereics.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\Genereics\Genereics\bin\Debug\netcoreapp3.1\Genereics.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\Genereics\Genereics\bin\Debug\netcoreapp3.1\Genereics.dll
+D:\Csharp Test\Csharp-Text\Genereics\Genereics\bin\Debug\netcoreapp3.1\Genereics.pdb
+D:\Csharp Test\Csharp-Text\Genereics\Genereics\obj\Debug\netcoreapp3.1\Genereics.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\Genereics\Genereics\obj\Debug\netcoreapp3.1\Genereics.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\Genereics\Genereics\obj\Debug\netcoreapp3.1\Genereics.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\Genereics\Genereics\obj\Debug\netcoreapp3.1\Genereics.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\Genereics\Genereics\obj\Debug\netcoreapp3.1\Genereics.dll
+D:\Csharp Test\Csharp-Text\Genereics\Genereics\obj\Debug\netcoreapp3.1\Genereics.pdb
+D:\Csharp Test\Csharp-Text\Genereics\Genereics\obj\Debug\netcoreapp3.1\Genereics.genruntimeconfig.cache

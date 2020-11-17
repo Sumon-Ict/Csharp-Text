@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\Interfaceandclass\Interfaceandclass\bin\Debug\netcoreapp3.1\Interfaceandclass.exe
+D:\Csharp Test\Csharp-Text\Interfaceandclass\Interfaceandclass\bin\Debug\netcoreapp3.1\Interfaceandclass.deps.json
+D:\Csharp Test\Csharp-Text\Interfaceandclass\Interfaceandclass\bin\Debug\netcoreapp3.1\Interfaceandclass.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\Interfaceandclass\Interfaceandclass\bin\Debug\netcoreapp3.1\Interfaceandclass.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\Interfaceandclass\Interfaceandclass\bin\Debug\netcoreapp3.1\Interfaceandclass.dll
+D:\Csharp Test\Csharp-Text\Interfaceandclass\Interfaceandclass\bin\Debug\netcoreapp3.1\Interfaceandclass.pdb
+D:\Csharp Test\Csharp-Text\Interfaceandclass\Interfaceandclass\obj\Debug\netcoreapp3.1\Interfaceandclass.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\Interfaceandclass\Interfaceandclass\obj\Debug\netcoreapp3.1\Interfaceandclass.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\Interfaceandclass\Interfaceandclass\obj\Debug\netcoreapp3.1\Interfaceandclass.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\Interfaceandclass\Interfaceandclass\obj\Debug\netcoreapp3.1\Interfaceandclass.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\Interfaceandclass\Interfaceandclass\obj\Debug\netcoreapp3.1\Interfaceandclass.dll
+D:\Csharp Test\Csharp-Text\Interfaceandclass\Interfaceandclass\obj\Debug\netcoreapp3.1\Interfaceandclass.pdb
+D:\Csharp Test\Csharp-Text\Interfaceandclass\Interfaceandclass\obj\Debug\netcoreapp3.1\Interfaceandclass.genruntimeconfig.cache

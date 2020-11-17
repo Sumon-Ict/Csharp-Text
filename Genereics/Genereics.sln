@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genereics", "Genereics\Genereics.csproj", "{DE89DE4B-1229-48AB-AE60-00A93AFF7E95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE89DE4B-1229-48AB-AE60-00A93AFF7E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE89DE4B-1229-48AB-AE60-00A93AFF7E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE89DE4B-1229-48AB-AE60-00A93AFF7E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE89DE4B-1229-48AB-AE60-00A93AFF7E95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A049B38-A009-4E03-9986-AD1E9CA4C2EB}
+	EndGlobalSection
+EndGlobal
