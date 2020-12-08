@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AbstractClass
 {
-   public abstract class Worker
+    public abstract class Worker
     {
 
         public string name { get; set; }
@@ -12,6 +12,11 @@ namespace AbstractClass
         public int age { get; set; }
 
         public double weight { get; set; }
+
+        public Worker()
+        {
+
+        }
 
         public Worker(string st,int ag)
         {

@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\DirectoryOperation\DirectoryOperation\obj\Debug\netcoreapp3.1\DirectoryOperation.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\DirectoryOperation\DirectoryOperation\obj\Debug\netcoreapp3.1\DirectoryOperation.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\DirectoryOperation\DirectoryOperation\obj\Debug\netcoreapp3.1\DirectoryOperation.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\DirectoryOperation\DirectoryOperation\obj\Debug\netcoreapp3.1\DirectoryOperation.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\DirectoryOperation\DirectoryOperation\bin\Debug\netcoreapp3.1\DirectoryOperation.exe
+D:\Csharp Test\Csharp-Text\DirectoryOperation\DirectoryOperation\bin\Debug\netcoreapp3.1\DirectoryOperation.deps.json
+D:\Csharp Test\Csharp-Text\DirectoryOperation\DirectoryOperation\bin\Debug\netcoreapp3.1\DirectoryOperation.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\DirectoryOperation\DirectoryOperation\bin\Debug\netcoreapp3.1\DirectoryOperation.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\DirectoryOperation\DirectoryOperation\bin\Debug\netcoreapp3.1\DirectoryOperation.dll
+D:\Csharp Test\Csharp-Text\DirectoryOperation\DirectoryOperation\bin\Debug\netcoreapp3.1\DirectoryOperation.pdb
+D:\Csharp Test\Csharp-Text\DirectoryOperation\DirectoryOperation\obj\Debug\netcoreapp3.1\DirectoryOperation.dll
+D:\Csharp Test\Csharp-Text\DirectoryOperation\DirectoryOperation\obj\Debug\netcoreapp3.1\DirectoryOperation.pdb
+D:\Csharp Test\Csharp-Text\DirectoryOperation\DirectoryOperation\obj\Debug\netcoreapp3.1\DirectoryOperation.genruntimeconfig.cache

@@ -17,6 +17,10 @@ namespace AbstractClass
 
         }
 
+        public Student()
+        {
+
+        }
         public Student(double wh,string str,int j,double d):
             base(str,j,d)
         {

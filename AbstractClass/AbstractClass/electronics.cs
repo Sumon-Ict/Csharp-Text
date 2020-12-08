@@ -4,7 +4,18 @@ using System.Text;
 
 namespace AbstractClass
 {
-    class electronics
+  public  class electronics:product
     {
+
+        public string Brandname { get; set; }
+
+        public int warranty { get; set; }
+
+        public override double discount()
+        {
+            return price * 50 / 100;
+
+        }
+
     }
 }

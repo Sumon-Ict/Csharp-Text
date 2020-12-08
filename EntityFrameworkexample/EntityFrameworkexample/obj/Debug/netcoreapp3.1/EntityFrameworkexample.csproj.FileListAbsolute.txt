@@ -1,0 +1,4 @@
+D:\Csharp Test\Csharp-Text\EntityFrameworkexample\EntityFrameworkexample\bin\Debug\netcoreapp3.1\EntityFrameworkexample.exe
+D:\Csharp Test\Csharp-Text\EntityFrameworkexample\EntityFrameworkexample\obj\Debug\netcoreapp3.1\EntityFrameworkexample.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\EntityFrameworkexample\EntityFrameworkexample\obj\Debug\netcoreapp3.1\EntityFrameworkexample.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\EntityFrameworkexample\EntityFrameworkexample\obj\Debug\netcoreapp3.1\EntityFrameworkexample.AssemblyInfo.cs
