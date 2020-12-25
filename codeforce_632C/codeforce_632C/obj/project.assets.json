@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp Test\\Csharp-Text\\codeforce_632C\\codeforce_632C\\codeforce_632C.csproj",
+      "projectUniqueName": "C:\\Users\\Sumon\\Desktop\\C#  codes\\Csharp-Exam\\CodeforceSolution\\codeforce_632C\\codeforce_632C\\codeforce_632C.csproj",
       "projectName": "codeforce_632C",
-      "projectPath": "D:\\Csharp Test\\Csharp-Text\\codeforce_632C\\codeforce_632C\\codeforce_632C.csproj",
+      "projectPath": "C:\\Users\\Sumon\\Desktop\\C#  codes\\Csharp-Exam\\CodeforceSolution\\codeforce_632C\\codeforce_632C\\codeforce_632C.csproj",
       "packagesPath": "C:\\Users\\Sumon\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp Test\\Csharp-Text\\codeforce_632C\\codeforce_632C\\obj\\",
+      "outputPath": "C:\\Users\\Sumon\\Desktop\\C#  codes\\Csharp-Exam\\CodeforceSolution\\codeforce_632C\\codeforce_632C\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sumon\\AppData\\Roaming\\NuGet\\NuGet.Config",

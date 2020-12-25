@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codeforce_632C", "codeforce_632C\codeforce_632C.csproj", "{AF05A64B-4300-4AE1-8BF5-F91FA971F7FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codeforce_632C", "codeforce_632C\codeforce_632C.csproj", "{B41FD511-9653-45AE-8410-6460BCA1E7FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AF05A64B-4300-4AE1-8BF5-F91FA971F7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF05A64B-4300-4AE1-8BF5-F91FA971F7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF05A64B-4300-4AE1-8BF5-F91FA971F7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF05A64B-4300-4AE1-8BF5-F91FA971F7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B41FD511-9653-45AE-8410-6460BCA1E7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41FD511-9653-45AE-8410-6460BCA1E7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41FD511-9653-45AE-8410-6460BCA1E7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41FD511-9653-45AE-8410-6460BCA1E7FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9F6B205A-6DC7-4FAD-9FD4-AF61D8C58D59}
+		SolutionGuid = {FFB3043F-D118-4A11-928C-7312C1353486}
 	EndGlobalSection
 EndGlobal

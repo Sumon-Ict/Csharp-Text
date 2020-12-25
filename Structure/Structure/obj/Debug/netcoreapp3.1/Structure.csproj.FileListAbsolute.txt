@@ -1,0 +1,13 @@
+D:\Csharp Test\Csharp-Text\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.exe
+D:\Csharp Test\Csharp-Text\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.deps.json
+D:\Csharp Test\Csharp-Text\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.dll
+D:\Csharp Test\Csharp-Text\Structure\Structure\bin\Debug\netcoreapp3.1\Structure.pdb
+D:\Csharp Test\Csharp-Text\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.csprojAssemblyReference.cache
+D:\Csharp Test\Csharp-Text\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.dll
+D:\Csharp Test\Csharp-Text\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.pdb
+D:\Csharp Test\Csharp-Text\Structure\Structure\obj\Debug\netcoreapp3.1\Structure.genruntimeconfig.cache

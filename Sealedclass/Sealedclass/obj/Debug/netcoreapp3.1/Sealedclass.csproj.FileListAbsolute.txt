@@ -1,0 +1,12 @@
+D:\Csharp Test\Csharp-Text\Sealedclass\Sealedclass\bin\Debug\netcoreapp3.1\Sealedclass.exe
+D:\Csharp Test\Csharp-Text\Sealedclass\Sealedclass\bin\Debug\netcoreapp3.1\Sealedclass.deps.json
+D:\Csharp Test\Csharp-Text\Sealedclass\Sealedclass\bin\Debug\netcoreapp3.1\Sealedclass.runtimeconfig.json
+D:\Csharp Test\Csharp-Text\Sealedclass\Sealedclass\bin\Debug\netcoreapp3.1\Sealedclass.runtimeconfig.dev.json
+D:\Csharp Test\Csharp-Text\Sealedclass\Sealedclass\bin\Debug\netcoreapp3.1\Sealedclass.dll
+D:\Csharp Test\Csharp-Text\Sealedclass\Sealedclass\bin\Debug\netcoreapp3.1\Sealedclass.pdb
+D:\Csharp Test\Csharp-Text\Sealedclass\Sealedclass\obj\Debug\netcoreapp3.1\Sealedclass.AssemblyInfoInputs.cache
+D:\Csharp Test\Csharp-Text\Sealedclass\Sealedclass\obj\Debug\netcoreapp3.1\Sealedclass.AssemblyInfo.cs
+D:\Csharp Test\Csharp-Text\Sealedclass\Sealedclass\obj\Debug\netcoreapp3.1\Sealedclass.csproj.CoreCompileInputs.cache
+D:\Csharp Test\Csharp-Text\Sealedclass\Sealedclass\obj\Debug\netcoreapp3.1\Sealedclass.dll
+D:\Csharp Test\Csharp-Text\Sealedclass\Sealedclass\obj\Debug\netcoreapp3.1\Sealedclass.pdb
+D:\Csharp Test\Csharp-Text\Sealedclass\Sealedclass\obj\Debug\netcoreapp3.1\Sealedclass.genruntimeconfig.cache
