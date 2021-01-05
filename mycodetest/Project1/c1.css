@@ -1,0 +1,44 @@
+
+
+
+p{
+   
+    border: 4px solid powderblue;
+    padding: 30px;
+}
+h1{
+    color:green;
+    border: 2px solid yellow;
+    padding: 20px;    
+
+}
+h2{
+    color:red;
+    border: 2px solid;
+    padding: 20px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+    background-color: blueviolet;
+}
+li{
+    float: left;
+}
+li a{
+    display:block;
+    color:blue;
+    text-align:center;
+    padding: 16px;
+    text-decoration:none;
+    
+}
+li a:hover{
+    background-color: chartreuse;
+}
+ol{
+   
+    marker-start: 20;
+}
