@@ -1,0 +1,54 @@
+.class1{
+    color:red;
+    border-style:double ;
+}
+.demo{
+    text-align: center;
+}
+
+body {
+
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    
+  }
+  p.dot{
+      background-color: blue;
+      border-style: dotted;
+  }
+  p.double{
+      background-color: brown;
+      border-color:blue ;
+      border-style: double;
+  }
+  h1.demo2{
+      background-image: url("img_tree.png");
+      background-color: blue;
+      border-style: groove;
+      
+
+  }
+  .demo3{
+     
+    border-style: solid;
+    border-color: red green blue yellow;
+  }
+  .demo4{
+      
+    border-color: indigo;
+    border-top-style: double;
+    border-left-style: dotted;
+    border-right-style: initial;
+    border-bottom-style: groove;
+    border-radius: 12px;
+  }
+  p.d1{
+     
+      border-bottom:2px solid red;
+      background-color: lawngreen;
+      border-radius: 5px;
+  }
+  
+

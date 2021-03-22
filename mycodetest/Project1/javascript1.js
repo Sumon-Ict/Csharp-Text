@@ -10,3 +10,4 @@ function myf()
    // document.write(counter);
 
 }
+console.log("my name is sumon");

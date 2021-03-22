@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="css1.css">
+
+</head>
+<body>
+    
+    <p id="d1">my name is sumon</p>
+ 
+    <script src="java1.js"></script><br>
+
+  <p id="d2"></p>
+  <script>
+      var carName="volvo";
+      document.getElementById("d2").innerHTML=carName;
+      var y=123e5;
+      document.write(y);
+
+      var names=["sumokn","sujon","sohag"];
+      document.write("<br>");
+      document.write(names[0]);
+      document.write("<br>");
+
+      var obj={name:"sumon",age:123,dept:"Ict"};
+      document.write(obj.age+"<br>");
+
+      document.write(obj.dept+"<br>");
+
+      var x="sumon";
+      document.write(typeof(x)+"<br>");   /// type of fucntion 
+
+   function multiply(a1,a2)   // function using 
+   {
+       return a1*a2;
+   }
+
+   document.write(multiply(23,45));
+     document.write("<br>"+ obj["dept"]);
+
+var person={
+    name:"sumon",
+    age:345,
+    home: "bogura",
+    lastname: "mia",
+     fullname: function(){
+         return this.name + " "+ this.lastname;
+     }
+};
+
+
+document.write("<br>"+person.fullname());
+
+
+  </script>
+</body>
+</html>

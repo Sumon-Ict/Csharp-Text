@@ -1,0 +1,20 @@
+.parentDiv div:first-child{
+    color: blue;
+}
+
+.parentDiv div:nth-child(2)
+{
+    color:red;
+}
+.parentDiv div:nth-child(3){
+    color:yellowgreen;
+}
+.parentDiv p{
+    color:yellow;
+
+}
+.parentDiv+div:nth-child(2){
+    color:darkred;
+}
+
+}

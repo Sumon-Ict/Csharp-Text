@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+    <form action="/action_page.php" target="_blank" method="GET">
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname" value="John"><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname" value="Doe"><br><br>
+        <input type="submit" value="Submit">
+      </form>
+      <form action="/action_page.php" target="_blank" method="POST">
+    
+    <label for="cars">choose a cars</label>
+    <select id="cars" name="carname" size="3">
+        <option value="volve">volvo</option>
+        <option value="saad">saad</option>
+        <option value="bmw">bmw</option>
+        <option value="andj">jdjkdl</option>
+        <option value="sdf">sdf</option>
+    </select><br><br>
+
+    <input type="submit">
+    </form>
+    <form action="/action_page.php">
+     
+        <label for="myfile">select a file for upload</label>
+        <input type="file" id="myfile" name="uploadedfile"><br>
+
+        <input type="submit" value="Submit"><br><br>
+
+
+    </form>
+    <form action="/action_page.php">
+        <label for="monthyear">Birthday</label>
+        <input type="month" id="monthyear" name="birthday">
+        <input type="submit" value="Submit"><br><br>
+
+
+    </form>
+    <form action="/Project1/index.html">
+        <label for="quantity">selet quantity</label>
+        <input type="number" id="quantity" name="Quantity" min="12" max="34">
+        <input type=" submit" value="Submit"><br><br>
+        
+    </form>
+    <form action="/Project1/index.html">
+        <label for="tel">enter a phone number</label>
+        <input type="tel" id="tel" name="phone" placeholder="017-14-402" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required ><br><br> 
+        <input type="submit">
+        <br><br>
+        
+
+    
+    </form>
+</body>
+</html>

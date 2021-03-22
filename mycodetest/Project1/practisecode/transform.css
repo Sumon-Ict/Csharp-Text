@@ -1,0 +1,47 @@
+
+#d1{
+    transform: rotate(20deg);
+}
+div#d2{
+    height: 200px;
+    width: 150px;
+    background-color: brown;
+    border: 2px solid green;
+
+}
+div#d3{
+    height: 200px;
+    width: 150px;
+    background-color: brown;
+    border: 2px solid green;
+    transform: scale(.5,.5);
+}
+div#d4{
+    height: 100px;
+    width: 100px;
+    background: hotpink;
+    transition: width 2s,height 2s,transform 2s;
+}
+
+div#d4:hover{
+    width:500px;
+    height: 500px;
+    transform: rotate(180deg);
+
+}
+div#d5{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 5s;
+}
+@keyframes example{
+    from{
+        background-color: red;
+
+    }
+    to{
+        background-color: yellowgreen;
+    }
+}
