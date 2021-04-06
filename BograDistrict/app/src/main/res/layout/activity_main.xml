@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:orientation="vertical"
+
+    tools:context=".MainActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+
+
+    <Button
+        android:id="@+id/bograButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="@string/bogra"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+
+        />
+    <Button
+        android:id="@+id/sadorButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="@string/sador"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+
+        />
+    <Button
+        android:id="@+id/sonatolaButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="@string/sonatola"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+
+        />
+    <Button
+    android:id="@+id/sariyakandiButtonId"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:text="@string/sariakandi"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:textColor="@color/colorPrimary"
+
+    />
+    <Button
+    android:id="@+id/gabtoliButtonId"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:text="@string/gabtoli"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:textColor="@color/colorPrimary"
+
+    /><Button
+    android:id="@+id/kahaluButtonId"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:text="@string/kahalu"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:textColor="@color/colorPrimary"
+
+    />
+
+    <Button
+    android:id="@+id/serpurButtonId"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:text="@string/serpur"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:textColor="@color/colorPrimary"
+
+    /><Button
+    android:id="@+id/adomdighiButtonId"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:text="@string/adomdighi"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:textColor="@color/colorPrimary"
+
+    />
+    <Button
+    android:id="@+id/sibgonjButtonId"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:text="@string/sibgonj"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:textColor="@color/colorPrimary"
+
+    />
+    <Button
+    android:id="@+id/shahjahanpurButtonId"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:text="@string/shahjahanpur"
+    android:textSize="20sp"
+    android:textStyle="bold"
+    android:textColor="@color/colorPrimary"
+
+    />
+    <Button
+        android:id="@+id/dhunotButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dhunot"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+
+        />
+    <Button
+        android:id="@+id/nondigramButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nondigram"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/colorPrimary"
+
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dhupcaciyaButtonId"
+        android:text="@string/dhupcaciya"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        />
+</LinearLayout>
+
+</ScrollView>
